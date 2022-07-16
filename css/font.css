@@ -1,0 +1,144 @@
+@font-face{
+	font-family:"font 1";
+	src:url('../font/Champagne & Limousines.ttf');
+}
+
+@font-face{
+	font-family:"font 2";
+	src:url('../font/Ubuntu-Title.ttf');
+}
+
+@font-face{
+	font-family:"font 3";
+	src:url('../font/Adlibn.ttf');
+}
+
+@font-face{
+	font-family:"font 4";
+	src:url('../font/AUTOBAHN.TTF');
+}
+
+@font-face{
+	font-family:"font 5";
+	src:url('../font/BAYOC___.TTF');
+}
+
+@font-face{
+	font-family:"font 6";
+	src:url('../font/DroidLogo-Regular.ttf');
+}
+
+@font-face{
+	font-family:"font 7";
+	src:url('../font/GROBOLD.ttf');
+}
+
+.font1{
+	font-family:"font 1";
+	letter-spacing:2px;
+}
+
+.font2{
+	font-family:"font 2";
+	letter-spacing:2px;
+}
+
+.font3{
+	font-family:"font 3";
+	letter-spacing:2px;
+}
+
+.font4{
+	font-family:"font 4";
+	letter-spacing:2px;
+}
+
+.font5{
+	font-family:"font 5";
+	letter-spacing:2px;
+}
+
+.font6{
+	font-family:"font 6";
+	letter-spacing:2px;
+}
+
+.font7{
+	font-family:"font 7";
+	letter-spacing:2px;
+}
+
+
+.font-bold{
+	font-weight:bold;
+}
+
+.font-kapital{
+	text-transform:capitalize;	
+}
+
+.font-besar{
+	text-transform:uppercase;	
+}
+
+.font-ukuran-12{
+	font-size:12px;
+}
+
+.font-ukuran-14{
+	font-size:14px;
+}
+
+.font-ukuran-16{
+	font-size:16px;
+}
+
+.font-ukuran-18{
+	font-size:18px;
+}
+
+.font-ukuran-19{
+	font-size:19px;
+}
+
+.font-ukuran-20{
+	font-size:20px;
+}
+
+.font-ukuran-22{
+	font-size:22px;
+}
+
+
+.font-ukuran24{
+	font-size:24px;
+}
+
+.font-ukuran36{
+	font-size:36px;
+}
+
+.font-ukuran40{
+	font-size:40px;
+}
+
+
+.font-hitam{
+	color:#000;
+}
+
+.font-abu{
+	color:#8b8b8b;
+}
+
+.font-merah{
+	color:#F00;
+}
+
+.font-putih{
+	color:#FFF;
+}
+
+.font-biru{
+	color:#000099;
+}

@@ -1,0 +1,14 @@
+label.error {
+	color: red;
+	display:block;
+	font-size:12px;
+	width:100%;
+	font-weight:bold;
+}
+
+label.valid {
+	color: #009900;
+	display:block;
+	width:100%;
+	font-weight:bold;
+}

@@ -1,0 +1,58 @@
+input[type="text"],
+input[type="password"],
+textarea {
+	border:1px solid rgba(51,51,51,.3);
+	padding: 5px 15px 5px 15px;
+	font-size: 12px;
+	text-align:left;
+	margin-bottom:5px;
+
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus,
+textarea:focus {
+	box-shadow:0 0 5px rgba(0,192,221,.6);
+	border:1px solid #00c0dd;
+}
+
+input[type="submit"],
+input[type="reset"],
+input[type="button"]{
+	font-size: 13px;
+	border:1px solid rgba(51,51,51,.3);
+	cursor:pointer;
+	color:#FFFFFF;
+	font-weight:bold;
+	color:#FFFFFF;
+	padding:10px 5px;
+	opacity:0.8;
+}
+
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+input[type="button"]:hover{
+	opacity:1;
+}
+
+
+select{
+	border:1px solid rgba(51,51,51,.3);
+	border-radius:3px;
+	padding: 5px 5px 5px 10px;
+	font-size: 12px;
+	text-align:left;
+	margin-bottom:5px;
+}
+
+
+
+.input-style-1{
+	padding:5px 20px;
+	width:100.7%;
+	height:50px;
+	border:0px;
+	box-shadow: inset 0px 0px 8px rgba(0,0,0,0.50);
+	margin-left:-1px;color:white;
+	border-radius:3px;
+}

@@ -1,0 +1,4935 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+/*- -- HEADER --- */
+
+#header-model-1{
+	width:100%;
+	height:50px;
+	float:left;
+}
+
+#header-model-2{
+	width:100%;
+	height:100px;
+	float:left;
+}
+
+#header-model-3{
+	width:100%;
+	height:120px;
+	float:left;
+}
+
+#header-model-4{
+	width:100%;
+	height:150px;
+	float:left;
+}
+
+
+/*- -- NAV HEADER --- */
+
+#nav-model-1{
+	width:100%;
+	height:100px;
+	float:left;
+}
+
+#nav-model-2{
+	width:100%;
+	height:40px;
+	float:left;
+}
+
+
+/*konten*/
+
+#konten-model-1{
+	width:100%;
+	min-height:650px;
+	float:left;
+}
+
+#konten-model-2{
+	width:85%;
+	height:650px;
+	margin:0 0 0 95px;
+	float:left;
+}
+
+#kontent-model-3{
+	width:100%;
+	min-height:550px;
+	float:left;
+	margin-left:5%;
+}
+
+#konten-model-4{
+	width:100%;
+	min-height:632px;
+	float:left;
+}
+
+
+/*- --FOOTER --- */
+
+#footer-mode-1{
+	width:100%;
+	height:50px;
+	float:left;
+}
+
+#footer-model-2{
+	width:100%;
+	height:250px;
+	float:left;
+}
+
+.kiri{
+	float:left;
+}
+
+.kanan{
+	float:right;
+}
+
+.tengah{
+	text-align:center;
+}
+
+/*- -- LEBAR --- */
+
+.lebar-1persen{
+	width:1%;
+}
+
+.lebar-2persen{
+	width:2%;
+}
+
+.lebar-3persen{
+	width:3%;
+}
+
+.lebar-4persen{
+	width:4%;
+}
+
+.lebar-5persen{
+	width:5%;
+}
+
+.lebar-6persen{
+	width:6%;
+}
+
+.lebar-7persen{
+	width:7%;
+}
+
+.lebar-8persen{
+	width:8%;
+}
+
+.lebar-9persen{
+	width:9%;
+}
+
+.lebar-10persen{
+	width:10%;
+}
+
+.lebar-11persen{
+	width:11%;
+}
+
+.lebar-12persen{
+	width:12%;
+}
+
+.lebar-13persen{
+	width:13%;
+}
+
+.lebar-14persen{
+	width:14%;
+}
+
+.lebar-15persen{
+	width:15%;
+}
+
+.lebar-16persen{
+	width:16%;
+}
+
+.lebar-17persen{
+	width:17%;
+}
+
+.lebar-18persen{
+	width:18%;
+}
+
+.lebar-19persen{
+	width:19%;
+}
+
+.lebar-20persen{
+	width:20%;
+}
+
+.lebar-21persen{
+	width:21%;
+}
+
+.lebar-22persen{
+	width:22%;
+}
+
+.lebar-23persen{
+	width:23%;
+}
+
+.lebar-24persen{
+	width:24%;
+}
+
+.lebar-25persen{
+	width:25%;
+}
+
+.lebar-26persen{
+	width:26%;
+}
+
+.lebar-27persen{
+	width:27%;
+}
+
+.lebar-28persen{
+	width:28%;
+}
+
+.lebar-29persen{
+	width:29%;
+}
+
+.lebar-30persen{
+	width:30%;
+}
+
+.lebar-31persen{
+	width:3%;
+}
+
+.lebar-32persen{
+	width:32%;
+}
+
+.lebar-33persen{
+	width:33%;
+}
+
+.lebar-34persen{
+	width:34%;
+}
+
+.lebar-35persen{
+	width:35%;
+}
+
+.lebar-36persen{
+	width:36%;
+}
+
+.lebar-37persen{
+	width:37%;
+}
+
+.lebar-38persen{
+	width:38%;
+}
+
+.lebar-39persen{
+	width:39%;
+}
+
+.lebar-40persen{
+	width:40%;
+}
+
+.lebar-41persen{
+	width:41%;
+}
+
+.lebar-42persen{
+	width:42%;
+}
+
+.lebar-43persen{
+	width:43%;
+}
+
+.lebar-45persen{
+	width:45%;
+}
+
+.lebar-46persen{
+	width:46%;
+}
+
+.lebar-47persen{
+	width:47%;
+}
+
+.lebar-48persen{
+	width:48%;
+}
+
+.lebar-49persen{
+	width:49%;
+}
+
+.lebar-50persen{
+	width:50%;
+}
+
+.lebar-51persen{
+	width:51%;
+}
+
+.lebar-52persen{
+	width:52%;
+}
+
+.lebar-53persen{
+	width:53%;
+}
+
+.lebar-54persen{
+	width:54%;
+}
+
+.lebar-55persen{
+	width:55%;
+}
+
+.lebar-56persen{
+	width:56%;
+}
+
+.lebar-57persen{
+	width:57%;
+}
+
+.lebar-58persen{
+	width:58%;
+}
+
+.lebar-59persen{
+	width:59%;
+}
+
+.lebar-60persen{
+	width:60%;
+}
+
+.lebar-61persen{
+	width:61%;
+}
+
+.lebar-62persen{
+	width:62%;
+}
+
+.lebar-63persen{
+	width:63%;
+}
+
+.lebar-64persen{
+	width:64%;
+}
+
+
+.lebar-65persen{
+	width:65%;
+}
+
+.lebar-66persen{
+	width:2%;
+}
+
+.lebar-67persen{
+	width:67%;
+}
+
+.lebar-68persen{
+	width:68%;
+}
+
+.lebar-69persen{
+	width:69%;
+}
+
+.lebar-70persen{
+	width:70%;
+}
+
+.lebar-71persen{
+	width:71%;
+}
+
+.lebar-72persen{
+	width:72%;
+}
+
+.lebar-73persen{
+	width:73%;
+}
+
+.lebar-74persen{
+	width:74%;
+}
+
+.lebar-75persen{
+	width:75%;
+}
+
+.lebar-76persen{
+	width:76%;
+}
+
+.lebar-77persen{
+	width:77%;
+}
+
+.lebar-78persen{
+	width:78%;
+}
+
+.lebar-79persen{
+	width:79%;
+}
+
+.lebar-80persen{
+	width:80%;
+}
+
+.lebar-81persen{
+	width:81%;
+}
+
+.lebar-82persen{
+	width:82%;
+}
+
+.lebar-83persen{
+	width:83%;
+}
+
+.lebar-84persen{
+	width:84%;
+}
+
+.lebar-85persen{
+	width:85%;
+}
+
+.lebar-86persen{
+	width:86%;
+}
+
+.lebar-87persen{
+	width:87%;
+}
+
+.lebar-88persen{
+	width:88%;
+}
+
+.lebar-89persen{
+	width:89%;
+}
+
+.lebar-90persen{
+	width:90%;
+}
+
+.lebar-91persen{
+	width:91%;
+}
+
+.lebar-92persen{
+	width:92%;
+}
+
+.lebar-93persen{
+	width:93%;
+}
+
+.lebar-94persen{
+	width:94%;
+}
+
+.lebar-95persen{
+	width:95%;
+}
+
+.lebar-96persen{
+	width:96%;
+}
+
+.lebar-97persen{
+	width:97%;
+}
+
+.lebar-98persen{
+	width:98%;
+}
+
+.lebar-99persen{
+	width:99%;
+}
+
+.lebar-100persen{
+	width:100%;
+}
+
+<!--- -- TINGGI --- -->
+
+.tinggi-1px{
+	min-height:1px;
+}
+
+.tinggi-2px{
+	min-height:2px;
+}
+
+.tinggi-3px{
+	min-height:3px;
+}
+
+.tinggi-4px{
+	min-height:4px;
+}
+
+.tinggi-5px{
+	min-height:5px;
+}
+
+.tinggi-6px{
+	min-height:6px;
+}
+
+.tinggi-7px{
+	min-height:7px;
+}
+
+.tinggi-8px{
+	min-height:8px;
+}
+
+.tinggi-9px{
+	min-height:9px;
+}
+
+
+.tinggi-10px{
+	min-height:10px;
+}
+
+.tinggi-11px{
+	min-height:11px;
+}
+
+.tinggi-12px{
+	min-height:12px;
+}
+
+.tinggi-13px{
+	min-height:13px;
+}
+
+.tinggi-14px{
+	min-height:14px;
+}
+
+.tinggi-15px{
+	min-height:15px;
+}
+
+.tinggi-16px{
+	min-height:16px;
+}
+
+.tinggi-17px{
+	min-height:17px;
+}
+
+.tinggi-18px{
+	min-height:18px;
+}
+
+.tinggi-19px{
+	min-height:19px;
+}
+
+.tinggi-20px{
+	min-height:20px;
+}
+
+.tinggi-21px{
+	min-height:21px;
+}
+
+.tinggi-22px{
+	min-height:22px;
+}
+
+.tinggi-23px{
+	min-height:23px;
+}
+
+.tinggi-24px{
+	min-height:24px;
+}
+
+.tinggi-25px{
+	min-height:25px;
+}
+
+.tinggi-26px{
+	min-height:26px;
+}
+
+.tinggi-27px{
+	min-height:27px;
+}
+
+.tinggi-28px{
+	min-height:28px;
+}
+
+.tinggi-29px{
+	min-height:29px;
+}
+
+.tinggi-30px{
+	min-height:30px;
+}
+
+.tinggi-31px{
+	min-height:31px;
+}
+
+.tinggi-32px{
+	min-height:32px;
+}
+
+.tinggi-33px{
+	min-height:33px;
+}
+
+.tinggi-34px{
+	min-height:34px;
+}
+
+.tinggi-35px{
+	min-height:35px;
+}
+
+.tinggi-36px{
+	min-height:36px;
+}
+
+.tinggi-37px{
+	min-height:37px;
+}
+
+.tinggi-38px{
+	min-height:38px;
+}
+
+.tinggi-39px{
+	min-height:39px;
+}
+
+.tinggi-40px{
+	min-height:40px;
+}
+
+.tinggi-41px{
+	min-height:41px;
+}
+
+.tinggi-42px{
+	min-height:42px;
+}
+
+.tinggi-43px{
+	min-height:43px;
+}
+
+.tinggi-44px{
+	min-height:44px;
+}
+
+.tinggi-45px{
+	min-height:45px;
+}
+
+.tinggi-46px{
+	min-height:46px;
+}
+
+.tinggi-47px{
+	min-height:47px;
+}
+
+.tinggi-48px{
+	min-height:48px;
+}
+
+.tinggi-49px{
+	min-height:49px;
+}
+
+.tinggi-50px{
+	min-height:50px;
+}
+
+.tinggi-51px{
+	min-height:51px;
+}
+
+.tinggi-52px{
+	min-height:52px;
+}
+
+.tinggi-53px{
+	min-height:53px;
+}
+
+.tinggi-54px{
+	min-height:54px;
+}
+
+.tinggi-55px{
+	min-height:55px;
+}
+
+.tinggi-56px{
+	min-height:56px;
+}
+
+
+.tinggi-57px{
+	min-height:57px;
+}
+
+.tinggi-58px{
+	min-height:58px;
+}
+
+.tinggi-59px{
+	min-height:59px;
+}
+
+.tinggi-60px{
+	min-height:60px;
+}
+
+.tinggi-61px{
+	min-height:61px;
+}
+
+.tinggi-62px{
+	min-height:62px;
+}
+
+.tinggi-63px{
+	min-height:63px;
+}
+
+.tinggi-64px{
+	min-height:64px;
+}
+
+.tinggi-65px{
+	min-height:65px;
+}
+
+.tinggi-66px{
+	min-height:66px;
+}
+
+.tinggi-67px{
+	min-height:67px;
+}
+
+.tinggi-68px{
+	min-height:68px;
+}
+
+.tinggi-69px{
+	min-height:69px;
+}
+
+.tinggi-70px{
+	min-height:70px;
+}
+
+.tinggi-80px{
+	min-height:80px;
+}
+
+.tinggi-81px{
+	min-height:81px;
+}
+
+.tinggi-82px{
+	min-height:82px;
+}
+
+.tinggi-83px{
+	min-height:83px;
+}
+
+.tinggi-84px{
+	min-height:84px;
+}
+
+.tinggi-85px{
+	min-height:85px;
+}
+
+.tinggi-86px{
+	min-height:86px;
+}
+
+.tinggi-87px{
+	min-height:87px;
+}
+
+.tinggi-88px{
+	min-height:88px;
+}
+
+.tinggi-89px{
+	min-height:89px;
+}
+
+.tinggi-90px{
+	min-height:90px;
+}
+
+.tinggi-91px{
+	min-height:91px;
+}
+
+.tinggi-92px{
+	min-height:92px;
+}
+
+.tinggi-93px{
+	min-height:93px;
+}
+
+.tinggi-94px{
+	min-height:94px;
+}
+
+.tinggi-95px{
+	min-height:95px;
+}
+
+.tinggi-96px{
+	min-height:96px;
+}
+
+.tinggi-97px{
+	min-height:97px;
+}
+
+.tinggi-98px{
+	min-height:90px;
+}
+
+.tinggi-99px{
+	min-height:99px;
+}
+
+.tinggi-100px{
+	min-height:100px;
+}
+
+.tinggi-101px{
+	min-height:101px;
+}
+
+.tinggi-102px{
+	min-height:102px;
+}
+
+.tinggi-103px{
+	min-height:103px;
+}
+
+.tinggi-104px{
+	min-height:104px;
+}
+
+.tinggi-105px{
+	min-height:105px;
+}
+
+.tinggi-110px{
+	min-height:110px;
+}
+
+.tinggi-120px{
+	min-height:120px;
+}
+
+.tinggi-125px{
+	min-height:125px;
+}
+
+.tinggi-130px{
+	min-height:130px;
+}
+
+.tinggi-135px{
+	min-height:135px;
+}
+
+.tinggi-140px{
+	min-height:140px;
+}
+
+.tinggi-145px{
+	min-height:140px;
+}
+
+.tinggi-150px{
+	min-height:150px;
+}
+
+.tinggi-155px{
+	min-height:155px;
+}
+
+.tinggi-160px{
+	min-height:160px;
+}
+
+.tinggi-170px{
+	min-height:170px;
+}
+
+.tinggi-175px{
+	min-height:175px;
+}
+
+.tinggi-180px{
+	min-height:180px;
+}
+
+.tinggi-185px{
+	min-height:185px;
+}
+
+.tinggi-190px{
+	min-height:190px;
+}
+
+.tinggi-195px{
+	min-height:195px;
+}
+
+.tinggi-200px{
+	min-height:200px;
+}
+
+.tinggi-205px{
+	min-height:205px;
+}
+
+.tinggi-210px{
+	min-height:210px;
+}
+
+.tinggi-215px{
+	min-height:215px;
+}
+
+.tinggi-220px{
+	min-height:220px;
+}
+
+.tinggi-225px{
+	min-height:225px;
+}
+
+.tinggi-230px{
+	min-height:230px;
+}
+
+.tinggi-235px{
+	min-height:235px;
+}
+
+.tinggi-240px{
+	min-height:240px;
+}
+
+.tinggi-245px{
+	min-height:245px;
+}
+
+.tinggi-250px{
+	min-height:250px;
+}
+
+.tinggi-255px{
+	min-height:255px;
+}
+
+.tinggi-260px{
+	min-height:260px;
+}
+
+.tinggi-265px{
+	min-height:265px;
+}
+
+.tinggi-270px{
+	min-height:270px;
+}
+
+.tinggi-275px{
+	min-height:275px;
+}
+
+.tinggi-280px{
+	min-height:280px;
+}
+
+.tinggi-285px{
+	min-height:285px;
+}
+
+.tinggi-290px{
+	min-height:290px;
+}
+
+.tinggi-295px{
+	min-height:295px;
+}
+
+.tinggi-300px{
+	min-height:300px;
+}
+
+.tinggi-305px{
+	min-height:305px;
+}
+
+.tinggi-310px{
+	min-height:310px;
+}
+
+.tinggi-315px{
+	min-height:315px;
+}
+
+.tinggi-320px{
+	min-height:320px;
+}
+
+.tinggi-325px{
+	min-height:325px;
+}
+
+.tinggi-330px{
+	min-height:330px;
+}
+
+.tinggi-335px{
+	min-height:335px;
+}
+
+.tinggi-340px{
+	min-height:340px;
+}
+
+.tinggi-345px{
+	min-height:300px;
+}
+
+.tinggi-350px{
+	min-height:350px;
+}
+
+.tinggi-355px{
+	min-height:355px;
+}
+
+.tinggi-360px{
+	min-height:360px;
+}
+
+.tinggi-365px{
+	min-height:365px;
+}
+
+.tinggi-370px{
+	min-height:370px;
+}
+
+.tinggi-375px{
+	min-height:375px;
+}
+
+.tinggi-380px{
+	min-height:380px;
+}
+
+.tinggi-385px{
+	min-height:385px;
+}
+
+.tinggi-390px{
+	min-height:390px;
+}
+
+.tinggi-395px{
+	min-height:395px;
+}
+
+.tinggi-400px{
+	min-height:400px;
+}
+
+.tinggi-405px{
+	min-height:405px;
+}
+
+.tinggi-410px{
+	min-height:410px;
+}
+
+.tinggi-415px{
+	min-height:415px;
+}
+
+.tinggi-420px{
+	min-height:420px;
+}
+
+.tinggi-425px{
+	min-height:425px;
+}
+
+.tinggi-430px{
+	min-height:430px;
+}
+
+.tinggi-435px{
+	min-height:435px;
+}
+
+.tinggi-440px{
+	min-height:440px;
+}
+
+.tinggi-445px{
+	min-height:445px;
+}
+
+.tinggi-450px{
+	height:450px;
+}
+
+.tinggi-455px{
+	min-height:455px;
+}
+
+.tinggi-460px{
+	min-height:460px;
+}
+
+.tinggi-465px{
+	min-height:465px;
+}
+
+.tinggi-470px{
+	min-height:470px;
+}
+
+.tinggi-475px{
+	min-height:475px;
+}
+
+.tinggi-480px{
+	min-height:480px;
+}
+
+.tinggi-485px{
+	min-height:485px;
+}
+
+.tinggi-490px{
+	min-height:490px;
+}
+
+.tinggi-495px{
+	min-height:495px;
+}
+
+.tinggi-500px{
+	min-height:500px;
+}
+
+.tinggi-505px{
+	min-height:505px;
+}
+
+.tinggi-510px{
+	min-height:510px;
+}
+
+.tinggi-515px{
+	min-height:515px;
+}
+
+.tinggi-520px{
+	min-height:520px;
+}
+
+.tinggi-525px{
+	min-height:525px;
+}
+
+.tinggi-530px{
+	min-height:530px;
+}
+
+.tinggi-535px{
+	min-height:535px;
+}
+
+.tinggi-540px{
+	min-height:540px;
+}
+
+.tinggi-545px{
+	min-height:545px;
+}
+
+.tinggi-550px{
+	min-height:550px;
+}
+
+.tinggi-55px{
+	min-height:55px;
+}
+
+.tinggi-560px{
+	min-height:560px;
+}
+
+.tinggi-565px{
+	min-height:565px;
+}
+
+.tinggi-570px{
+	min-height:570px;
+}
+
+.tinggi-575px{
+	min-height:575px;
+}
+
+.tinggi-580px{
+	min-height:580px;
+}
+
+.tinggi-585px{
+	min-height:585x;
+}
+
+.tinggi-590px{
+	min-height:590px;
+}
+
+.tinggi-595px{
+	min-height:595px;
+}
+
+.tinggi-600px{
+	min-height:600px;
+}
+
+.tinggi-605px{
+	min-height:605px;
+}
+
+.tinggi-610px{
+	min-height:610px;
+}
+
+.tinggi-615px{
+	min-height:615px;
+}
+
+.tinggi-620px{
+	min-height:620px;
+}
+
+.tinggi-625px{
+	min-height:625px;
+}
+
+.tinggi-630px{
+	min-height:630px;
+}
+
+.tinggi-635px{
+	min-height:635px;
+}
+
+.tinggi-640px{
+	min-height:640px;
+}
+
+.tinggi-645px{
+	min-height:600px;
+}
+
+.tinggi-650px{
+	min-height:650px;
+}
+
+.tinggi-655px{
+	min-height:655px;
+}
+
+.tinggi-660px{
+	min-height:660px;
+}
+
+.tinggi-665px{
+	min-height:665px;
+}
+
+.tinggi-670px{
+	min-height:670px;
+}
+
+.tinggi-675px{
+	min-height:675px;
+}
+
+.tinggi-680px{
+	min-height:680px;
+}
+
+.tinggi-685px{
+	min-height:685px;
+}
+
+.tinggi-690px{
+	min-height:690px;
+}
+
+.tinggi-695px{
+	min-height:695px;
+}
+
+.tinggi-700px{
+	min-height:700px;
+}
+
+.tinggi-710px{
+	min-height:710px;
+}
+
+.tinggi-715px{
+	min-height:715px;
+}
+
+.tinggi-720px{
+	min-height:720px;
+}
+
+.tinggi-730px{
+	min-height:730px;
+}
+
+.tinggi-740px{
+	min-height:740px;
+}
+
+.tinggi-750px{
+	min-height:750px;
+}
+
+.tinggi-790px{
+	min-height:790px;
+}
+
+.tinggi-800px{
+	min-height:800px;
+}
+
+.tinggi-850px{
+	min-height:850px;
+}
+
+.tinggi-900px{
+	min-height:900px;
+}
+
+.tinggi-950px{
+	min-height:950px;
+}
+
+.tinggi-1000px{
+	min-height:100px;
+}
+
+/*- -- JARAK ATAS --- */
+
+.jarak-atas-05persen{
+	margin-top:0.5%;
+}
+
+.jarak-atas-1persen{
+	margin-top:1%;
+}
+
+.jarak-atas-1-koma-5persen{
+	margin-top:1.5%;
+}
+
+.jarak-atas-2persen{
+	margin-top:2%;
+}
+
+.jarak-atas-3persen{
+	margin-top:3%;
+}
+
+.jarak-atas-4persen{
+	margin-top:4%;
+}
+
+.jarak-atas-5persen{
+	margin-top:5%;
+}
+
+.jarak-atas-6persen{
+	margin-top:6%;
+}
+
+.jarak-atas-7persen{
+	margin-top:7%;
+}
+
+.jarak-atas-8persen{
+	margin-top:8%;
+}
+
+.jarak-atas-9persen{
+	margin-top:9%;
+}
+
+.jarak-atas-10persen{
+	margin-top:10%;
+}
+
+.jarak-atas-11persen{
+	margin-top:11%;
+}
+
+.jarak-atas-12persen{
+	margin-top:12%;
+}
+
+.jarak-atas-13persen{
+	margin-top:13%;
+}
+
+.jarak-atas-14persen{
+	margin-top:14%;
+}
+
+.jarak-atas-15persen{
+	margin-top:15%;
+}
+
+.jarak-atas-16persen{
+	margin-top:16%;
+}
+
+.jarak-atas-17persen{
+	margin-top:17%;
+}
+
+.jarak-atas-18persen{
+	margin-top:18%;
+}
+
+.jarak-atas-19persen{
+	margin-top:19%;
+}
+
+.jarak-atas-20persen{
+	margin-top:20%;
+}
+
+.jarak-atas-21persen{
+	margin-top:21%;
+}
+
+.jarak-atas-22persen{
+	margin-top:22%;
+}
+
+.jarak-atas-23persen{
+	margin-top:23%;
+}
+
+.jarak-atas-24persen{
+	margin-top:24%;
+}
+
+.jarak-atas-25persen{
+	margin-top:25%;
+}
+
+.jarak-atas-26persen{
+	margin-top:26%;
+}
+
+.jarak-atas-27persen{
+	margin-top:27%;
+}
+
+.jarak-atas-28persen{
+	margin-top:28%;
+}
+
+.jarak-atas-29persen{
+	margin-top:29%;
+}
+
+.jarak-atas-30persen{
+	margin-top:30%;
+}
+
+.jarak-atas-31persen{
+	margin-top:31%;
+}
+
+.jarak-atas-32persen{
+	margin-top:32%;
+}
+
+.jarak-atas-33persen{
+	margin-top:33%;
+}
+
+.jarak-atas-34persen{
+	margin-top:34%;
+}
+
+.jarak-atas-35persen{
+	margin-top:35%;
+}
+
+.jarak-atas-36persen{
+	margin-top:36%;
+}
+
+.jarak-atas-37persen{
+	margin-top:37%;
+}
+
+.jarak-atas-38persen{
+	margin-top:38%;
+}
+
+.jarak-atas-39persen{
+	margin-top:39%;
+}
+
+.jarak-atas-40persen{
+	margin-top:40%;
+}
+
+.jarak-atas-41persen{
+	margin-top:41%;
+}
+
+.jarak-atas-42persen{
+	margin-top:42%;
+}
+
+.jarak-atas-43persen{
+	margin-top:43%;
+}
+
+.jarak-atas-44persen{
+	margin-top:44%;
+}
+
+.jarak-atas-45persen{
+	margin-top:45%;
+}
+
+.jarak-atas-46persen{
+	margin-top:46%;
+}
+
+.jarak-atas-47persen{
+	margin-top:47%;
+}
+
+.jarak-atas-48persen{
+	margin-top:48%;
+}
+
+.jarak-atas-49persen{
+	margin-top:49%;
+}
+
+.jarak-atas-50persen{
+	margin-top:50%;
+}
+
+.jarak-atas-51persen{
+	margin-top:51%;
+}
+
+.jarak-atas-51persen{
+	margin-top:51%;
+}
+
+.jarak-atas-52persen{
+	margin-top:52%;
+}
+
+.jarak-atas-53persen{
+	margin-top:53%;
+}
+
+.jarak-atas-54persen{
+	margin-top:54%;
+}
+
+.jarak-atas-55persen{
+	margin-top:55%;
+}
+
+
+.jarak-atas-56persen{
+	margin-top:56%;
+}
+
+.jarak-atas-57persen{
+	margin-top:57%;
+}
+
+.jarak-atas-58persen{
+	margin-top:58%;
+}
+
+.jarak-atas-59persen{
+	margin-top:59%;
+}
+
+.jarak-atas-60persen{
+	margin-top:60%;
+}
+
+.jarak-atas-61persen{
+	margin-top:61%;
+}
+
+.jarak-atas-62persen{
+	margin-top:62%;
+}
+
+.jarak-atas-63persen{
+	margin-top:63%;
+}
+
+.jarak-atas-64persen{
+	margin-top:64%;
+}
+
+.jarak-atas-65persen{
+	margin-top:65%;
+}
+
+.jarak-atas-66persen{
+	margin-top:66%;
+}
+
+.jarak-atas-67persen{
+	margin-top:67%;
+}
+
+.jarak-atas-68persen{
+	margin-top:68%;
+}
+
+.jarak-atas-69persen{
+	margin-top:69%;
+}
+
+.jarak-atas-70persen{
+	margin-top:70%;
+}
+
+.jarak-atas-71persen{
+	margin-top:71%;
+}
+
+.jarak-atas-72persen{
+	margin-top:72%;
+}
+
+.jarak-atas-73persen{
+	margin-top:73%;
+}
+
+.jarak-atas-74persen{
+	margin-top:74%;
+}
+
+.jarak-atas-75persen{
+	margin-top:75%;
+}
+
+.jarak-atas-76persen{
+	margin-top:76%;
+}
+
+.jarak-atas-77persen{
+	margin-top:77%;
+}
+
+.jarak-atas-78persen{
+	margin-top:78%;
+}
+
+.jarak-atas-79persen{
+	margin-top:79%;
+}
+
+.jarak-atas-80persen{
+	margin-top:80%;
+}
+
+.jarak-atas-81persen{
+	margin-top:81%;
+}
+
+.jarak-atas-82persen{
+	margin-top:82%;
+}
+
+.jarak-atas-83persen{
+	margin-top:84%;
+}
+
+.jarak-atas-84persen{
+	margin-top:84%;
+}
+
+.jarak-atas-85persen{
+	margin-top:85%;
+}
+
+.jarak-atas-86persen{
+	margin-top:86%;
+}
+
+.jarak-atas-87persen{
+	margin-top:87%;
+}
+
+.jarak-atas-88persen{
+	margin-top:88%;
+}
+
+.jarak-atas-89persen{
+	margin-top:89%;
+}
+
+.jarak-atas-90persen{
+	margin-top:90%;
+}
+
+.jarak-atas-91persen{
+	margin-top:91%;
+}
+
+.jarak-atas-92persen{
+	margin-top:92%;
+}
+
+.jarak-atas-93persen{
+	margin-top:93%;
+}
+
+.jarak-atas-94persen{
+	margin-top:94%;
+}
+
+.jarak-atas-95persen{
+	margin-top:95%;
+}
+
+.jarak-atas-96persen{
+	margin-top:96%;
+}
+
+.jarak-atas-97persen{
+	margin-top:97%;
+}
+
+.jarak-atas-98persen{
+	margin-top:98%;
+}
+
+.jarak-atas-99persen{
+	margin-top:99%;
+}
+
+.jarak-atas-100persen{
+	margin-top:100%;
+}
+
+/*- -- JARAK KANAN --- */
+
+.jarak-kanan-05persen{
+	margin-right:0.5%;
+}
+
+.jarak-kanan-1persen{
+	margin-right:1%;
+}
+
+.jarak-kanan-2persen{
+	margin-right:2%;
+}
+
+.jarak-kanan-3persen{
+	margin-right:3%;
+}
+
+.jarak-kanan-4persen{
+	margin-right:4%;
+}
+
+.jarak-kanan-5persen{
+	margin-right:5%;
+}
+
+.jarak-kanan-6persen{
+	margin-right:6%;
+}
+
+.jarak-kanan-7persen{
+	margin-right:7%;
+}
+
+.jarak-kanan-8persen{
+	margin-right:8%;
+}
+
+.jarak-kanan-9persen{
+	margin-right:9%;
+}
+
+.jarak-kanan-10persen{
+	margin-right:10%;
+}
+
+.jarak-kanan-11persen{
+	margin-right:11%;
+}
+
+.jarak-kanan-12persen{
+	margin-right:12%;
+}
+
+.jarak-kanan-13persen{
+	margin-right:13%;
+}
+
+.jarak-kanan-14persen{
+	margin-right:14%;
+}
+
+.jarak-kanan-15persen{
+	margin-right:15%;
+}
+
+.jarak-kanan-16persen{
+	margin-right:16%;
+}
+
+.jarak-kanan-17persen{
+	margin-right:17%;
+}
+
+.jarak-kanan-18persen{
+	margin-right:18%;
+}
+
+.jarak-kanan-19persen{
+	margin-right:19%;
+}
+
+.jarak-kanan-20persen{
+	margin-right:20%;
+}
+
+.jarak-kanan-21persen{
+	margin-right:21%;
+}
+
+.jarak-kanan-22persen{
+	margin-right:22%;
+}
+
+.jarak-kanan-23persen{
+	margin-right:23%;
+}
+
+.jarak-kanan-23persen{
+	margin-right:23%;
+}
+
+.jarak-kanan-24persen{
+	margin-right:24%;
+}
+
+.jarak-kanan-25persen{
+	margin-right:25%;
+}
+
+.jarak-kanan-26persen{
+	margin-right:26%;
+}
+
+.jarak-kanan-27persen{
+	margin-right:27%;
+}
+
+.jarak-kanan-28persen{
+	margin-right:28%;
+}
+
+.jarak-kanan-29persen{
+	margin-right:29%;
+}
+
+.jarak-kanan-30persen{
+	margin-right:30%;
+}
+
+.jarak-kanan-31persen{
+	margin-right:31%;
+}
+
+.jarak-kanan-32persen{
+	margin-right:32%;
+}
+
+.jarak-kanan-33persen{
+	margin-right:33%;
+}
+
+.jarak-kanan-34persen{
+	margin-right:34%;
+}
+
+.jarak-kanan-35persen{
+	margin-right:35%;
+}
+
+.jarak-kanan-36persen{
+	margin-right:36%;
+}
+
+.jarak-kanan-37persen{
+	margin-right:37%;
+}
+
+.jarak-kanan-38persen{
+	margin-right:38%;
+}
+
+.jarak-kanan-39persen{
+	margin-right:39%;
+}
+
+.jarak-kanan-40persen{
+	margin-right:40%;
+}
+
+.jarak-kanan-41persen{
+	margin-right:41%;
+}
+
+.jarak-kanan-42persen{
+	margin-right:42%;
+}
+
+.jarak-kanan-43persen{
+	margin-right:43%;
+}
+
+.jarak-kanan-44persen{
+	margin-right:44%;
+}
+
+.jarak-kanan-44persen{
+	margin-right:44%;
+}
+
+.jarak-kanan-45persen{
+	margin-right:45%;
+}
+
+.jarak-kanan-46persen{
+	margin-right:46%;
+}
+
+.jarak-kanan-47persen{
+	margin-right:47%;
+}
+
+.jarak-kanan-48persen{
+	margin-right:48%;
+}
+
+.jarak-kanan-49persen{
+	margin-right:49%;
+}
+
+.jarak-kanan-50persen{
+	margin-right:50%;
+}
+
+.jarak-kanan-51persen{
+	margin-right:51%;
+}
+
+.jarak-kanan-52persen{
+	margin-right:52%;
+}
+
+.jarak-kanan-53persen{
+	margin-right:53%;
+}
+
+.jarak-kanan-54persen{
+	margin-right:54%;
+}
+
+.jarak-kanan-55persen{
+	margin-right:55%;
+}
+
+.jarak-kanan-56persen{
+	margin-right:56%;
+}
+
+.jarak-kanan-57persen{
+	margin-right:57%;
+}
+
+.jarak-kanan-58persen{
+	margin-right:58%;
+}
+
+.jarak-kanan-59persen{
+	margin-right:59%;
+}
+
+.jarak-kanan-60persen{
+	margin-right:60%;
+}
+
+.jarak-kanan-61persen{
+	margin-right:61%;
+}
+
+.jarak-kanan-62persen{
+	margin-right:62%;
+}
+
+.jarak-kanan-62persen{
+	margin-right:62%;
+}
+
+.jarak-kanan-63persen{
+	margin-right:63%;
+}
+
+.jarak-kanan-64persen{
+	margin-right:64%;
+}
+
+.jarak-kanan-65persen{
+	margin-right:65%;
+}
+
+.jarak-kanan-66persen{
+	margin-right:66%;
+}
+
+.jarak-kanan-67persen{
+	margin-right:67%;
+}
+
+.jarak-kanan-68persen{
+	margin-right:68%;
+}
+
+.jarak-kanan-69persen{
+	margin-right:69%;
+}
+
+.jarak-kanan-70persen{
+	margin-right:70%;
+}
+
+.jarak-kanan-71persen{
+	margin-right:71%;
+}
+
+.jarak-kanan-72persen{
+	margin-right:72%;
+}
+
+.jarak-kanan-73persen{
+	margin-right:73%;
+}
+
+.jarak-kanan-74persen{
+	margin-right:74%;
+}
+
+.jarak-kanan-75persen{
+	margin-right:75%;
+}
+
+.jarak-kanan-76persen{
+	margin-right:76%;
+}
+
+.jarak-kanan-78persen{
+	margin-right:78%;
+}
+
+.jarak-kanan-79persen{
+	margin-right:79%;
+}
+
+.jarak-kanan-80persen{
+	margin-right:80%;
+}
+
+.jarak-kanan-81persen{
+	margin-right:81%;
+}
+
+.jarak-kanan-82persen{
+	margin-right:82%;
+}
+
+.jarak-kanan-83persen{
+	margin-right:83%;
+}
+
+.jarak-kanan-84persen{
+	margin-right:84%;
+}
+
+.jarak-kanan-85persen{
+	margin-right:85%;
+}
+
+.jarak-kanan-86persen{
+	margin-right:86%;
+}
+
+.jarak-kanan-87persen{
+	margin-right:87%;
+}
+
+.jarak-kanan-88persen{
+	margin-right:88%;
+}
+
+.jarak-kanan-89persen{
+	margin-right:89%;
+}
+
+.jarak-kanan-90persen{
+	margin-right:90%;
+}
+
+.jarak-kanan-91persen{
+	margin-right:91%;
+}
+
+.jarak-kanan-92persen{
+	margin-right:92%;
+}
+
+.jarak-kanan-93persen{
+	margin-right:93%;
+}
+
+.jarak-kanan-94persen{
+	margin-right:94%;
+}
+
+.jarak-kanan-95persen{
+	margin-right:95%;
+}
+
+.jarak-kanan-96persen{
+	margin-right:96%;
+}
+
+.jarak-kanan-97persen{
+	margin-right:97%;
+}
+
+.jarak-kanan-98persen{
+	margin-right:98%;
+}
+
+.jarak-kanan-99persen{
+	margin-right:99%;
+}
+
+.jarak-kanan-100persen{
+	margin-right:100%;
+}
+
+/*- -- JARAK BAWAH --- */
+
+.jarak-bawah-05persen{
+	margin-bottom:0.5%;
+}
+
+.jarak-bawah-1persen{
+	margin-bottom:1%;
+}
+
+.jarak-bawah-2persen{
+	margin-bottom:2%;
+}
+
+.jarak-bawah-3persen{
+	margin-bottom:3%;
+}
+
+.jarak-bawah-4persen{
+	margin-bottom:4%;
+}
+
+.jarak-bawah-5persen{
+	margin-bottom:5%;
+}
+
+.jarak-bawah-6persen{
+	margin-bottom:6%;
+}
+
+.jarak-bawah-7persen{
+	margin-bottom:7%;
+}
+
+.jarak-bawah-8persen{
+	margin-bottom:8%;
+}
+
+.jarak-bawah-9persen{
+	margin-bottom:9%;
+}
+
+.jarak-bawah-10persen{
+	margin-bottom:10%;
+}
+
+.jarak-bawah-10persen{
+	margin-bottom:10%;
+}
+
+.jarak-bawah-11persen{
+	margin-bottom:11%;
+}
+
+.jarak-bawah-12persen{
+	margin-bottom:12%;
+}
+
+.jarak-bawah-13persen{
+	margin-bottom:13%;
+}
+
+.jarak-bawah-14persen{
+	margin-bottom:14%;
+}
+
+.jarak-bawah-15persen{
+	margin-bottom:15%;
+}
+
+.jarak-bawah-16persen{
+	margin-bottom:16%;
+}
+
+.jarak-bawah-17persen{
+	margin-bottom:17%;
+}
+
+.jarak-bawah-18persen{
+	margin-bottom:18%;
+}
+
+.jarak-bawah-19persen{
+	margin-bottom:19%;
+}
+
+
+.jarak-bawah-20persen{
+	margin-bottom:20%;
+}
+
+.jarak-bawah-21persen{
+	margin-bottom:21%;
+}
+
+.jarak-bawah-22persen{
+	margin-bottom:22%;
+}
+
+.jarak-bawah-23persen{
+	margin-bottom:23%;
+}
+
+.jarak-bawah-24persen{
+	margin-bottom:24%;
+}
+
+.jarak-bawah-25persen{
+	margin-bottom:25%;
+}
+
+.jarak-bawah-22persen{
+	margin-bottom:22%;
+}
+
+.jarak-bawah-23persen{
+	margin-bottom:23%;
+}
+
+.jarak-bawah-24persen{
+	margin-bottom:24%;
+}
+
+.jarak-bawah-25persen{
+	margin-bottom:25%;
+}
+
+.jarak-bawah-26persen{
+	margin-bottom:26%;
+}
+
+.jarak-bawah-27persen{
+	margin-bottom:27%;
+}
+
+.jarak-bawah-28persen{
+	margin-bottom:28%;
+}
+
+.jarak-bawah-29persen{
+	margin-bottom:29%;
+}
+
+.jarak-bawah-30persen{
+	margin-bottom:30%;
+}
+
+.jarak-bawah-31persen{
+	margin-bottom:31%;
+}
+
+.jarak-bawah-32persen{
+	margin-bottom:32%;
+}
+
+.jarak-bawah-33persen{
+	margin-bottom:33%;
+}
+
+.jarak-bawah-34persen{
+	margin-bottom:34%;
+}
+
+.jarak-bawah-35persen{
+	margin-bottom:35%;
+}
+
+.jarak-bawah-36persen{
+	margin-bottom:36%;
+}
+
+.jarak-bawah-37persen{
+	margin-bottom:37%;
+}
+
+.jarak-bawah-38persen{
+	margin-bottom:38%;
+}
+
+.jarak-bawah-39persen{
+	margin-bottom:39%;
+}
+
+.jarak-bawah-40persen{
+	margin-bottom:40%;
+}
+
+.jarak-bawah-41persen{
+	margin-bottom:41%;
+}
+
+.jarak-bawah-42persen{
+	margin-bottom:42%;
+}
+
+.jarak-bawah-43persen{
+	margin-bottom:43%;
+}
+
+.jarak-bawah-44persen{
+	margin-bottom:44%;
+}
+
+.jarak-bawah-45persen{
+	margin-bottom:45%;
+}
+
+.jarak-bawah-46persen{
+	margin-bottom:46%;
+}
+
+.jarak-bawah-47persen{
+	margin-bottom:47%;
+}
+
+.jarak-bawah-48persen{
+	margin-bottom:48%;
+}
+
+.jarak-bawah-49persen{
+	margin-bottom:49%;
+}
+
+.jarak-bawah-50persen{
+	margin-bottom:50%;
+}
+
+.jarak-bawah-51persen{
+	margin-bottom:51%;
+}
+
+.jarak-bawah-52persen{
+	margin-bottom:52%;
+}
+
+.jarak-bawah-53persen{
+	margin-bottom:53%;
+}
+
+.jarak-bawah-54persen{
+	margin-bottom:54%;
+}
+
+.jarak-bawah-55persen{
+	margin-bottom:55%;
+}
+
+.jarak-bawah-56persen{
+	margin-bottom:56%;
+}
+
+.jarak-bawah-57persen{
+	margin-bottom:57%;
+}
+
+.jarak-bawah-58persen{
+	margin-bottom:58%;
+}
+
+.jarak-bawah-59persen{
+	margin-bottom:59%;
+}
+
+.jarak-bawah-60persen{
+	margin-bottom:60%;
+}
+
+.jarak-bawah-61persen{
+	margin-bottom:61%;
+}
+
+.jarak-bawah-61persen{
+	margin-bottom:61%;
+}
+
+.jarak-bawah-62persen{
+	margin-bottom:62%;
+}
+
+.jarak-bawah-63persen{
+	margin-bottom:63%;
+}
+
+.jarak-bawah-64persen{
+	margin-bottom:64%;
+}
+
+.jarak-bawah-65persen{
+	margin-bottom:65%;
+}
+
+.jarak-bawah-66persen{
+	margin-bottom:66%;
+}
+
+.jarak-bawah-67persen{
+	margin-bottom:67%;
+}
+
+.jarak-bawah-68persen{
+	margin-bottom:68%;
+}
+
+.jarak-bawah-69persen{
+	margin-bottom:69%;
+}
+
+.jarak-bawah-70persen{
+	margin-bottom:70%;
+}
+
+.jarak-bawah-71persen{
+	margin-bottom:71%;
+}
+
+.jarak-bawah-71persen{
+	margin-bottom:71%;
+}
+
+.jarak-bawah-72persen{
+	margin-bottom:72%;
+}
+
+.jarak-bawah-73persen{
+	margin-bottom:73%;
+}
+
+.jarak-bawah-74persen{
+	margin-bottom:74%;
+}
+
+.jarak-bawah-75persen{
+	margin-bottom:75%;
+}
+
+.jarak-bawah-76persen{
+	margin-bottom:77%;
+}
+
+.jarak-bawah-77persen{
+	margin-bottom:77%;
+}
+
+.jarak-bawah-78persen{
+	margin-bottom:78%;
+}
+
+.jarak-bawah-78persen{
+	margin-bottom:78%;
+}
+
+.jarak-bawah-79persen{
+	margin-bottom:79%;
+}
+
+.jarak-bawah-80persen{
+	margin-bottom:80%;
+}
+
+.jarak-bawah-81persen{
+	margin-bottom:81%;
+}
+
+.jarak-bawah-82persen{
+	margin-bottom:82%;
+}
+
+.jarak-bawah-83persen{
+	margin-bottom:83%;
+}
+
+.jarak-bawah-84persen{
+	margin-bottom:84%;
+}
+
+.jarak-bawah-85persen{
+	margin-bottom:85%;
+}
+
+.jarak-bawah-86persen{
+	margin-bottom:86%;
+}
+
+.jarak-bawah-87persen{
+	margin-bottom:87%;
+}
+
+.jarak-bawah-88ersen{
+	margin-bottom:88%;
+}
+
+.jarak-bawah-89persen{
+	margin-bottom:89%;
+}
+
+.jarak-bawah-90persen{
+	margin-bottom:90%;
+}
+
+.jarak-bawah-91persen{
+	margin-bottom:91%;
+}
+
+.jarak-bawah-92persen{
+	margin-bottom:92%;
+}
+
+.jarak-bawah-93persen{
+	margin-bottom:93%;
+}
+
+.jarak-bawah-94persen{
+	margin-bottom:94%;
+}
+
+.jarak-bawah-95persen{
+	margin-bottom:95%;
+}
+
+.jarak-bawah-96persen{
+	margin-bottom:96%;
+}
+
+.jarak-bawah-97persen{
+	margin-bottom:97%;
+}
+
+.jarak-bawah-98persen{
+	margin-bottom:98%;
+}
+
+.jarak-bawah-99persen{
+	margin-bottom:99%;
+}
+
+.jarak-bawah-100persen{
+	margin-bottom:100%;
+}
+
+/*- -- JARAK KIRI --- */
+
+
+.jarak-kiri-05persen{
+	margin-left:0.5%;
+}
+
+.jarak-kiri-1persen{
+	margin-left:1%;
+}
+
+.jarak-kiri-1koma{
+	margin-left:1.7%;
+}
+
+.jarak-kiri-2persen{
+	margin-left:2%;
+}
+
+.jarak-kiri-2koma{
+	margin-left:1.8%;
+}
+
+.jarak-kiri-3persen{
+	margin-left:3%;
+}
+
+.jarak-kiri-4persen{
+	margin-left:4%;
+}
+
+.jarak-kiri-5persen{
+	margin-left:5%;
+}
+
+.jarak-kiri-6persen{
+	margin-left:6%;
+}
+
+.jarak-kiri-7persen{
+	margin-left:7%;
+}
+
+.jarak-kiri-8persen{
+	margin-left:8%;
+}
+
+.jarak-kiri-9persen{
+	margin-left:9%;
+}
+
+.jarak-kiri-10persen{
+	margin-left:10%;
+}
+
+.jarak-kiri-11persen{
+	margin-left:11%;
+}
+
+.jarak-kiri-12persen{
+	margin-left:12%;
+}
+
+.jarak-kiri-13persen{
+	margin-left:13%;
+}
+
+.jarak-kiri-14persen{
+	margin-left:14%;
+}
+
+.jarak-kiri-15persen{
+	margin-left:15%;
+}
+
+.jarak-kiri-16persen{
+	margin-left:16%;
+}
+
+.jarak-kiri-17persen{
+	margin-left:17%;
+}
+
+.jarak-kiri-18persen{
+	margin-left:18%;
+}
+
+.jarak-kiri-19persen{
+	margin-left:10%;
+}
+
+.jarak-kiri-20persen{
+	margin-left:20%;
+}
+
+.jarak-kiri-21persen{
+	margin-left:21%;
+}
+
+.jarak-kiri-22persen{
+	margin-left:22%;
+}
+
+.jarak-kiri-23persen{
+	margin-left:23%;
+}
+
+.jarak-kiri-24persen{
+	margin-left:24%;
+}
+
+.jarak-kiri-25persen{
+	margin-left:25%;
+}
+
+.jarak-kiri-26persen{
+	margin-left:26%;
+}
+
+.jarak-kiri-27persen{
+	margin-left:27%;
+}
+
+.jarak-kiri-28persen{
+	margin-left:28%;
+}
+
+.jarak-kiri-29persen{
+	margin-left:29%;
+}
+
+.jarak-kiri-30persen{
+	margin-left:30%;
+}
+
+.jarak-kiri-31persen{
+	margin-left:31%;
+}
+
+.jarak-kiri-32persen{
+	margin-left:32%;
+}
+
+.jarak-kiri-33persen{
+	margin-left:33%;
+}
+
+.jarak-kiri-34persen{
+	margin-left:34%;
+}
+
+.jarak-kiri-35persen{
+	margin-left:35%;
+}
+
+.jarak-kiri-36persen{
+	margin-left:36%;
+}
+
+.jarak-kiri-37persen{
+	margin-left:37%;
+}
+
+.jarak-kiri-38persen{
+	margin-left:38%;
+}
+
+.jarak-kiri-39persen{
+	margin-left:39%;
+}
+
+.jarak-kiri-40persen{
+	margin-left:40%;
+}
+
+.jarak-kiri-41persen{
+	margin-left:41%;
+}
+
+.jarak-kiri-42persen{
+	margin-left:42%;
+}
+
+.jarak-kiri-43persen{
+	margin-left:43%;
+}
+
+.jarak-kiri-44persen{
+	margin-left:44%;
+}
+
+.jarak-kiri-45persen{
+	margin-left:45%;
+}
+
+.jarak-kiri-46persen{
+	margin-left:46%;
+}
+
+.jarak-kiri-47persen{
+	margin-left:47%;
+}
+
+.jarak-kiri-48persen{
+	margin-left:48%;
+}
+
+.jarak-kiri-49persen{
+	margin-left:49%;
+}
+
+.jarak-kiri-50persen{
+	margin-left:50%;
+}
+
+.jarak-kiri-51persen{
+	margin-left:51%;
+}
+
+.jarak-kiri-52persen{
+	margin-left:52%;
+}
+
+.jarak-kiri-53persen{
+	margin-left:53%;
+}
+
+.jarak-kiri-54persen{
+	margin-left:54%;
+}
+
+.jarak-kiri-55persen{
+	margin-left:55%;
+}
+
+.jarak-kiri-56persen{
+	margin-left:56%;
+}
+
+.jarak-kiri-57persen{
+	margin-left:57%;
+}
+
+.jarak-kiri-58persen{
+	margin-left:58%;
+}
+
+.jarak-kiri-59persen{
+	margin-left:59%;
+}
+
+.jarak-kiri-60persen{
+	margin-left:60%;
+}
+
+.jarak-kiri-61persen{
+	margin-left:61%;
+}
+
+.jarak-kiri-62persen{
+	margin-left:62%;
+}
+
+.jarak-kiri-63persen{
+	margin-left:63%;
+}
+
+.jarak-kiri-64persen{
+	margin-left:64%;
+}
+
+.jarak-kiri-65persen{
+	margin-left:65%;
+}
+
+.jarak-kiri-66persen{
+	margin-left:66%;
+}
+
+.jarak-kiri-67persen{
+	margin-left:67%;
+}
+
+.jarak-kiri-68persen{
+	margin-left:68%;
+}
+
+.jarak-kiri-69persen{
+	margin-left:69%;
+}
+
+.jarak-kiri-70persen{
+	margin-left:70%;
+}
+
+.jarak-kiri-71persen{
+	margin-left:71%;
+}
+
+.jarak-kiri-72persen{
+	margin-left:72%;
+}
+
+.jarak-kiri-73persen{
+	margin-left:73%;
+}
+
+.jarak-kiri-74persen{
+	margin-left:74%;
+}
+
+.jarak-kiri-75persen{
+	margin-left:75%;
+}
+
+.jarak-kiri-76persen{
+	margin-left:76%;
+}
+
+.jarak-kiri-77persen{
+	margin-left:77%;
+}
+
+.jarak-kiri-78persen{
+	margin-left:78%;
+}
+
+.jarak-kiri-79persen{
+	margin-left:79%;
+}
+
+.jarak-kiri-80persen{
+	margin-left:80%;
+}
+
+.jarak-kiri-81persen{
+	margin-left:81%;
+}
+
+.jarak-kiri-82persen{
+	margin-left:82%;
+}
+
+.jarak-kiri-83persen{
+	margin-left:83%;
+}
+
+.jarak-kiri-84persen{
+	margin-left:84%;
+}
+
+.jarak-kiri-85persen{
+	margin-left:85%;
+}
+
+.jarak-kiri-806ersen{
+	margin-left:86%;
+}
+
+.jarak-kiri-87persen{
+	margin-left:87%;
+}
+
+.jarak-kiri-88persen{
+	margin-left:88%;
+}
+
+.jarak-kiri-89persen{
+	margin-left:89%;
+}
+
+.jarak-kiri-90persen{
+	margin-left:90%;
+}
+
+.jarak-kiri-91persen{
+	margin-left:91%;
+}
+
+.jarak-kiri-92ersen{
+	margin-left:92%;
+}
+
+.jarak-kiri-93persen{
+	margin-left:93%;
+}
+
+.jarak-kiri-94persen{
+	margin-left:94%;
+}
+
+.jarak-kiri-95persen{
+	margin-left:95%;
+}
+
+.jarak-kiri-96persen{
+	margin-left:96%;
+}
+
+.jarak-kiri-97persen{
+	margin-left:97%;
+}
+
+.jarak-kiri-98persen{
+	margin-left:98%;
+}
+
+.jarak-kiri-99persen{
+	margin-left:99%;
+}
+
+.jarak-kiri-100persen{
+	margin-left:100%;
+}
+
+/*- -- PADDING ATAS ---*/ 
+
+.padding-atas-1persen{
+	padding-top:1%;
+}
+
+.padding-atas-1-koma-5persen{
+	padding-top:1.5%;
+}
+
+.padding-atas-2persen{
+	padding-top:2%;
+}
+
+.padding-atas-3persen{
+	padding-top:3%;
+}
+
+.padding-atas-4persen{
+	padding-top:4%;
+}
+
+.padding-atas-5persen{
+	padding-top:5%;
+}
+
+.padding-atas-6persen{
+	padding-top:6%;
+}
+
+.padding-atas-7persen{
+	padding-top:8%;
+}
+
+.padding-atas-8persen{
+	padding-top:8%;
+}
+
+.padding-atas-9persen{
+	padding-top:9%;
+}
+
+.padding-atas-10persen{
+	padding-top:10%;
+}
+
+.padding-atas-11persen{
+	padding-top:11%;
+}
+
+.padding-atas-12persen{
+	padding-top:12%;
+}
+
+.padding-atas-13persen{
+	padding-top:13%;
+}
+
+.padding-atas-14persen{
+	padding-top:14%;
+}
+
+.padding-atas-15persen{
+	padding-top:15%;
+}
+
+.padding-atas-16persen{
+	padding-top:16%;
+}
+
+.padding-atas-17persen{
+	padding-top:17%;
+}
+
+.padding-atas-18persen{
+	padding-top:18%;
+}
+
+.padding-atas-19persen{
+	padding-top:19%;
+}
+
+.padding-atas-20persen{
+	padding-top:20%;
+}
+
+.padding-atas-21persen{
+	padding-top:21%;
+}
+
+.padding-atas-22persen{
+	padding-top:22%;
+}
+
+.padding-atas-23persen{
+	padding-top:23%;
+}
+
+.padding-atas-24persen{
+	padding-top:24%;
+}
+
+.padding-atas-25persen{
+	padding-top:25%;
+}
+
+.padding-atas-26persen{
+	padding-top:26%;
+}
+
+.padding-atas-27persen{
+	padding-top:27%;
+}
+
+.padding-atas-28persen{
+	padding-top:28%;
+}
+
+.padding-atas-29persen{
+	padding-top:29%;
+}
+
+.padding-atas-30persen{
+	padding-top:30%;
+}
+
+.padding-atas-31persen{
+	padding-top:31%;
+}
+
+.padding-atas-32persen{
+	padding-top:32%;
+}
+
+.padding-atas-33persen{
+	padding-top:33%;
+}
+
+.padding-atas-34persen{
+	padding-top:34%;
+}
+
+.padding-atas-35persen{
+	padding-top:35%;
+}
+
+.padding-atas-36persen{
+	padding-top:36%;
+}
+
+.padding-atas-37persen{
+	padding-top:37%;
+}
+
+.padding-atas-38persen{
+	padding-top:38%;
+}
+
+.padding-atas-39persen{
+	padding-top:39%;
+}
+
+.padding-atas-40persen{
+	padding-top:40%;
+}
+
+.padding-atas-41persen{
+	padding-top:41%;
+}
+
+.padding-atas-42persen{
+	padding-top:42%;
+}
+
+.padding-atas-43persen{
+	padding-top:43%;
+}
+
+.padding-atas-44persen{
+	padding-top:44%;
+}
+
+.padding-atas-45persen{
+	padding-top:45%;
+}
+
+.padding-atas-46persen{
+	padding-top:46%;
+}
+
+.padding-atas-47persen{
+	padding-top:47%;
+}
+
+.padding-atas-48persen{
+	padding-top:48%;
+}
+
+.padding-atas-49persen{
+	padding-top:49%;
+}
+
+.padding-atas-50persen{
+	padding-top:50%;
+}
+
+.padding-atas-51persen{
+	padding-top:51%;
+}
+
+.padding-atas-52persen{
+	padding-top:52%;
+}
+
+.padding-atas-53persen{
+	padding-top:53%;
+}
+
+.padding-atas-53persen{
+	padding-top:53%;
+}
+
+.padding-atas-54persen{
+	padding-top:54%;
+}
+
+.padding-atas-55persen{
+	padding-top:55%;
+}
+
+.padding-atas-55persen{
+	padding-top:55%;
+}
+
+.padding-atas-56persen{
+	padding-top:56%;
+}
+
+.padding-atas-57persen{
+	padding-top:57%;
+}
+
+.padding-atas-58persen{
+	padding-top:58%;
+}
+
+.padding-atas-59persen{
+	padding-top:59%;
+}
+
+.padding-atas-60persen{
+	padding-top:60%;
+}
+
+.padding-atas-61persen{
+	padding-top:61%;
+}
+
+.padding-atas-62persen{
+	padding-top:62%;
+}
+
+.padding-atas-63persen{
+	padding-top:63;
+}
+
+.padding-atas-64persen{
+	padding-top:64%;
+}
+
+.padding-atas-65persen{
+	padding-top:65%;
+}
+
+.padding-atas-66persen{
+	padding-top:66%;
+}
+
+.padding-atas-67persen{
+	padding-top:67%;
+}
+
+.padding-atas-68persen{
+	padding-top:68%;
+}
+
+.padding-atas-69persen{
+	padding-top:69%;
+}
+
+.padding-atas-70persen{
+	padding-top:70%;
+}
+
+.padding-atas-71persen{
+	padding-top:71%;
+}
+
+.padding-atas-72persen{
+	padding-top:72%;
+}
+
+.padding-atas-73persen{
+	padding-top:73%;
+}
+
+.padding-atas-74persen{
+	padding-top:74%;
+}
+
+.padding-atas-75persen{
+	padding-top:75%;
+}
+
+.padding-atas-76persen{
+	padding-top:76%;
+}
+
+.padding-atas-77persen{
+	padding-top:77%;
+}
+
+.padding-atas-78persen{
+	padding-top:78%;
+}
+
+.padding-atas-79persen{
+	padding-top:79%;
+}
+
+.padding-atas-80persen{
+	padding-top:80%;
+}
+
+.padding-atas-81persen{
+	padding-top:81%;
+}
+
+.padding-atas-82persen{
+	padding-top:82%;
+}
+
+.padding-atas-83persen{
+	padding-top:83%;
+}
+
+.padding-atas-84persen{
+	padding-top:84%;
+}
+
+.padding-atas-85persen{
+	padding-top:85%;
+}
+
+.padding-atas-86persen{
+	padding-top:86%;
+}
+
+.padding-atas-87persen{
+	padding-top:87%;
+}
+
+.padding-atas-88persen{
+	padding-top:88%;
+}
+
+.padding-atas-89persen{
+	padding-top:89%;
+}
+
+.padding-atas-90persen{
+	padding-top:90%;
+}
+
+.padding-atas-91persen{
+	padding-top:91%;
+}
+
+.padding-atas-92persen{
+	padding-top:92%;
+}
+
+.padding-atas-93persen{
+	padding-top:93%;
+}
+
+.padding-atas-94persen{
+	padding-top:94%;
+}
+
+.padding-atas-95persen{
+	padding-top:95%;
+}
+
+.padding-atas-96persen{
+	padding-top:96%;
+}
+
+.padding-atas-97persen{
+	padding-top:97%;
+}
+
+.padding-atas-98persen{
+	padding-top:98%;
+}
+
+.padding-atas-99persen{
+	padding-top:99%;
+}
+
+.padding-atas-100persen{
+	padding-top:100%;
+}
+/*- -- PADDING KANAN --- */
+
+.padding-kanan-1persen{
+	padding-right:1%;
+}
+
+.padding-kanan-2persen{
+	padding-right:2%;
+}
+
+.padding-kanan-3persen{
+	padding-right:3%;
+}
+
+.padding-kanan-4persen{
+	padding-right:4%;
+}
+
+.padding-kanan-5persen{
+	padding-right:5%;
+}
+
+.padding-kanan-6persen{
+	padding-right:6%;
+}
+
+.padding-kanan-7persen{
+	padding-right:7%;
+}
+
+.padding-kanan-8persen{
+	padding-right:8%;
+}
+
+.padding-kanan-9persen{
+	padding-right:9%;
+}
+
+.padding-kanan-10persen{
+	padding-right:10%;
+}
+
+.padding-kanan-11persen{
+	padding-right:11%;
+}
+
+.padding-kanan-12persen{
+	padding-right:12%;
+}
+
+.padding-kanan-13persen{
+	padding-right:13%;
+}
+
+.padding-kanan-14persen{
+	padding-right:14%;
+}
+
+.padding-kanan-15persen{
+	padding-right:15%;
+}
+
+.padding-kanan-16persen{
+	padding-right:16%;
+}
+
+.padding-kanan-17persen{
+	padding-right:17%;
+}
+
+.padding-kanan-18persen{
+	padding-right:18%;
+}
+
+.padding-kanan-19persen{
+	padding-right:19%;
+}
+
+.padding-kanan-20persen{
+	padding-right:20%;
+}
+
+.padding-kanan-21persen{
+	padding-right:21%;
+}
+
+.padding-kanan-22persen{
+	padding-right:22%;
+}
+
+.padding-kanan-23persen{
+	padding-right:23%;
+}
+
+.padding-kanan-24persen{
+	padding-right:24%;
+}
+
+.padding-kanan-25persen{
+	padding-right:25%;
+}
+
+.padding-kanan-26persen{
+	padding-right:26%;
+}
+
+.padding-kanan-27persen{
+	padding-right:27%;
+}
+
+.padding-kanan-28persen{
+	padding-right:28%;
+}
+
+.padding-kanan-29persen{
+	padding-right:29%;
+}
+
+.padding-kanan-30persen{
+	padding-right:30%;
+}
+
+.padding-kanan-31persen{
+	padding-right:31%;
+}
+
+.padding-kanan-32persen{
+	padding-right:32%;
+}
+
+.padding-kanan-33persen{
+	padding-right:33%;
+}
+
+.padding-kanan-34persen{
+	padding-right:34%;
+}
+
+.padding-kanan-35ersen{
+	padding-right:35%;
+}
+
+.padding-kanan-36persen{
+	padding-right:36%;
+}
+
+.padding-kanan-37persen{
+	padding-right:37%;
+}
+
+.padding-kanan-38persen{
+	padding-right:38%;
+}
+
+.padding-kanan-39persen{
+	padding-right:39%;
+}
+
+.padding-kanan-40persen{
+	padding-right:40%;
+}
+
+.padding-kanan-41persen{
+	padding-right:41%;
+}
+
+.padding-kanan-42persen{
+	padding-right:42%;
+}
+
+.padding-kanan-43persen{
+	padding-right:43%;
+}
+
+.padding-kanan-44persen{
+	padding-right:44%;
+}
+
+.padding-kanan-44persen{
+	padding-right:44%;
+}
+
+.padding-kanan-45persen{
+	padding-right:45%;
+}
+
+.padding-kanan-46persen{
+	padding-right:46%;
+}
+
+.padding-kanan-47persen{
+	padding-right:47%;
+}
+
+.padding-kanan-48persen{
+	padding-right:48%;
+}
+
+.padding-kanan-49persen{
+	padding-right:49%;
+}
+
+.padding-kanan-50persen{
+	padding-right:50%;
+}
+
+.padding-kanan-51persen{
+	padding-right:51%;
+}
+
+.padding-kanan-51persen{
+	padding-right:51%;
+}
+
+.padding-kanan-52persen{
+	padding-right:52%;
+}
+
+.padding-kanan-53persen{
+	padding-right:53%;
+}
+
+.padding-kanan-54persen{
+	padding-right:54%;
+}
+
+.padding-kanan-55persen{
+	padding-right:55%;
+}
+
+.padding-kanan-56persen{
+	padding-right:56%;
+}
+
+.padding-kanan-57persen{
+	padding-right:57%;
+}
+
+.padding-kanan-58persen{
+	padding-right:58%;
+}
+
+.padding-kanan-59persen{
+	padding-right:59%;
+}
+
+.padding-kanan-60persen{
+	padding-right:60%;
+}
+
+.padding-kanan-61persen{
+	padding-right:61%;
+}
+
+.padding-kanan-62persen{
+	padding-right:62%;
+}
+
+.padding-kanan-63persen{
+	padding-right:63%;
+}
+
+.padding-kanan-64persen{
+	padding-right:64%;
+}
+
+.padding-kanan-65persen{
+	padding-right:65%;
+}
+
+.padding-kanan-66persen{
+	padding-right:66%;
+}
+
+.padding-kanan-67persen{
+	padding-right:67%;
+}
+
+.padding-kanan-68persen{
+	padding-right:68%;
+}
+
+.padding-kanan-69persen{
+	padding-right:69%;
+}
+
+.padding-kanan-70persen{
+	padding-right:70%;
+}
+
+.padding-kanan-71persen{
+	padding-right:71%;
+}
+
+.padding-kanan-72persen{
+	padding-right:72%;
+}
+
+.padding-kanan-73persen{
+	padding-right:73%;
+}
+
+.padding-kanan-74persen{
+	padding-right:74%;
+}
+
+.padding-kanan-75persen{
+	padding-right:75%;
+}
+
+.padding-kanan-76persen{
+	padding-right:76%;
+}
+
+.padding-kanan-77persen{
+	padding-right:77%;
+}
+
+.padding-kanan-78persen{
+	padding-right:78%;
+}
+
+.padding-kanan-79persen{
+	padding-right:79%;
+}
+
+.padding-kanan-80persen{
+	padding-right:80%;
+}
+
+.padding-kanan-81persen{
+	padding-right:81%;
+}
+
+.padding-kanan-82persen{
+	padding-right:82%;
+}
+
+.padding-kanan-83persen{
+	padding-right:83%;
+}
+
+.padding-kanan-84persen{
+	padding-right:84%;
+}
+
+.padding-kanan-85persen{
+	padding-right:85%;
+}
+
+.padding-kanan-86persen{
+	padding-right:86%;
+}
+
+.padding-kanan-87persen{
+	padding-right:87%;
+}
+
+.padding-kanan-88persen{
+	padding-right:88%;
+}
+
+.padding-kanan-89persen{
+	padding-right:89%;
+}
+
+.padding-kanan-90persen{
+	padding-right:90%;
+}
+
+.padding-kanan-91persen{
+	padding-right:91%;
+}
+
+.padding-kanan-92persen{
+	padding-right:92%;
+}
+
+.padding-kanan-93persen{
+	padding-right:93%;
+}
+
+.padding-kanan-94persen{
+	padding-right:94%;
+}
+
+.padding-kanan-95persen{
+	padding-right:95%;
+}
+
+.padding-kanan-96persen{
+	padding-right:96%;
+}
+
+.padding-kanan-97persen{
+	padding-right:97%;
+}
+
+.padding-kanan-98persen{
+	padding-right:98%;
+}
+
+.padding-kanan-99persen{
+	padding-right:99%;
+}
+
+.padding-kanan-100persen{
+	padding-right:100%;
+}
+
+/*
+- -- PADDING BAWAH --- */
+
+.padding-bawah-1persen{
+	padding-bottom:1%;
+}
+
+.padding-bawah-1-koma-5persen{
+	padding-bottom:1.5%;
+}
+
+.padding-bawah-2persen{
+	padding-bottom:2%;
+}
+
+.padding-bawah-3persen{
+	padding-bottom:3%;
+}
+
+.padding-bawah-4persen{
+	padding-bottom:4%;
+}
+
+.padding-bawah-5persen{
+	padding-bottom:5%;
+}
+
+.padding-bawah-6persen{
+	padding-bottom:6%;
+}
+
+.padding-bawah-7persen{
+	padding-bottom:7%;
+}
+
+.padding-bawah-8persen{
+	padding-bottom:8%;
+}
+
+.padding-bawah-9persen{
+	padding-bottom:9%;
+}
+
+.padding-bawah-10persen{
+	padding-bottom:10%;
+}
+
+.padding-bawah-11persen{
+	padding-bottom:11%;
+}
+
+.padding-bawah-12persen{
+	padding-bottom:12%;
+}
+
+.padding-bawah-13persen{
+	padding-bottom:13%;
+}
+
+.padding-bawah-14persen{
+	padding-bottom:14%;
+}
+
+.padding-bawah-15persen{
+	padding-bottom:15%;
+}
+
+.padding-bawah-16persen{
+	padding-bottom:16%;
+}
+
+.padding-bawah-17persen{
+	padding-bottom:17%;
+}
+
+.padding-bawah-18persen{
+	padding-bottom:18%;
+}
+
+.padding-bawah-19persen{
+	padding-bottom:19%;
+}
+
+.padding-bawah-20persen{
+	padding-bottom:20%;
+}
+
+.padding-bawah-21persen{
+	padding-bottom:21%;
+}
+
+.padding-bawah-22persen{
+	padding-bottom:22%;
+}
+
+.padding-bawah-23persen{
+	padding-bottom:23%;
+}
+
+.padding-bawah-24persen{
+	padding-bottom:24%;
+}
+
+.padding-bawah-25persen{
+	padding-bottom:25%;
+}
+
+.padding-bawah-26persen{
+	padding-bottom:26%;
+}
+
+.padding-bawah-27persen{
+	padding-bottom:27%;
+}
+
+.padding-bawah-28persen{
+	padding-bottom:28%;
+}
+
+.padding-bawah-29persen{
+	padding-bottom:29%;
+}
+
+.padding-bawah-30persen{
+	padding-bottom:30%;
+}
+
+.padding-bawah-31persen{
+	padding-bottom:31%;
+}
+
+.padding-bawah-32persen{
+	padding-bottom:32%;
+}
+
+.padding-bawah-33persen{
+	padding-bottom:33%;
+}
+
+.padding-bawah-34persen{
+	padding-bottom:34%;
+}
+
+.padding-bawah-35ersen{
+	padding-bottom:35%;
+}
+
+.padding-bawah-36persen{
+	padding-bottom:36%;
+}
+
+.padding-bawah-37persen{
+	padding-bottom:37%;
+}
+
+.padding-bawah-38persen{
+	padding-bottom:38%;
+}
+
+.padding-bawah-39persen{
+	padding-bottom:39%;
+}
+
+.padding-bawah-40persen{
+	padding-bottom:40%;
+}
+
+.padding-bawah-41persen{
+	padding-bottom:41%;
+}
+
+.padding-bawah-42persen{
+	padding-bottom:42%;
+}
+
+.padding-bawah-43persen{
+	padding-bottom:43%;
+}
+
+.padding-bawah-44persen{
+	padding-bottom:44%;
+}
+
+.padding-bawah-44persen{
+	padding-bottom:44%;
+}
+
+.padding-bawah-45persen{
+	padding-bottom:45%;
+}
+
+.padding-bawah-46persen{
+	padding-bottom:46%;
+}
+
+.padding-bawah-47persen{
+	padding-bottom:47%;
+}
+
+.padding-bawah-48persen{
+	padding-bottom:48%;
+}
+
+.padding-bawah-49persen{
+	padding-bottom:49%;
+}
+
+.padding-bawah-50persen{
+	padding-bottom:50%;
+}
+
+.padding-bawah-51persen{
+	padding-bottom:51%;
+}
+
+.padding-bawah-51persen{
+	padding-bottom:51%;
+}
+
+.padding-bawah-52persen{
+	padding-bottom:52%;
+}
+
+.padding-bawah-53persen{
+	padding-bottom:53%;
+}
+
+.padding-bawah-54persen{
+	padding-bottom:54%;
+}
+
+.padding-bawah-55persen{
+	padding-bottom:55%;
+}
+
+.padding-bawah-56persen{
+	padding-bottom:56%;
+}
+
+.padding-bawah-57persen{
+	padding-bottom:57%;
+}
+
+.padding-bawah-58persen{
+	padding-bottom:58%;
+}
+
+.padding-bawah-59persen{
+	padding-bottom:59%;
+}
+
+.padding-bawah-60persen{
+	padding-bottom:60%;
+}
+
+.padding-bawah-61persen{
+	padding-bottom:61%;
+}
+
+.padding-bawah-62persen{
+	padding-bottom:62%;
+}
+
+.padding-bawah-63persen{
+	padding-bottom:63%;
+}
+
+.padding-bawah-64persen{
+	padding-bottom:64%;
+}
+
+.padding-bawah-65persen{
+	padding-bottom:65%;
+}
+
+.padding-bawah-66persen{
+	padding-bottom:66%;
+}
+
+.padding-bawah-67persen{
+	padding-bottom:67%;
+}
+
+.padding-bawah-68persen{
+	padding-bottom:68%;
+}
+
+.padding-bawah-69persen{
+	padding-bottom:69%;
+}
+
+.padding-bawah-70persen{
+	padding-bottom:70%;
+}
+
+.padding-bawah-71persen{
+	padding-bottom:71%;
+}
+
+.padding-bawah-72persen{
+	padding-bottom:72%;
+}
+
+.padding-bawah-73persen{
+	padding-bottom:73%;
+}
+
+.padding-bawah-74persen{
+	padding-bottom:74%;
+}
+
+.padding-bawah-75persen{
+	padding-bottom:75%;
+}
+
+.padding-bawah-76persen{
+	padding-bottom:76%;
+}
+
+.padding-bawah-77persen{
+	padding-bottom:77%;
+}
+
+.padding-bawah-78persen{
+	padding-bottom:78%;
+}
+
+.padding-bawah-79persen{
+	padding-bottom:79%;
+}
+
+.padding-bawah-80persen{
+	padding-bottom:80%;
+}
+
+.padding-bawah-81persen{
+	padding-bottom:81%;
+}
+
+.padding-bawah-82persen{
+	padding-bottom:82%;
+}
+
+.padding-bawah-83persen{
+	padding-bottom:83%;
+}
+
+.padding-bawah-84persen{
+	padding-bottom:84%;
+}
+
+.padding-bawah-85persen{
+	padding-bottom:85%;
+}
+
+.padding-bawah-86persen{
+	padding-bottom:86%;
+}
+
+.padding-bawah-87persen{
+	padding-bottom:87%;
+}
+
+.padding-bawah-88persen{
+	padding-bottom:88%;
+}
+
+.padding-bawah-89persen{
+	padding-bottom:89%;
+}
+
+.padding-bawah-90persen{
+	padding-bottom:90%;
+}
+
+.padding-bawah-91persen{
+	padding-bottom:91%;
+}
+
+.padding-bawah-92persen{
+	padding-bottom:92%;
+}
+
+.padding-bawah-93persen{
+	padding-bottom:93%;
+}
+
+.padding-bawah-94persen{
+	padding-bottom:94%;
+}
+
+.padding-bawah-95persen{
+	padding-bottom:95%;
+}
+
+.padding-bawah-96persen{
+	padding-bottom:96%;
+}
+
+.padding-bawah-97persen{
+	padding-bottom:97%;
+}
+
+.padding-bawah-98persen{
+	padding-bottom:98%;
+}
+
+.padding-bawah-99persen{
+	padding-bottom:99%;
+}
+
+.padding-bawah-100persen{
+	padding-bottom:100%;
+}
+/*- -- PADDING KIRI --- */
+
+.padding-kiri-1persen{
+	padding-left:1%;
+}
+
+.padding-kiri-2persen{
+	padding-left:2%;
+}
+
+.padding-kiri-3persen{
+	padding-left:3%;
+}
+
+.padding-kiri-4persen{
+	padding-left:4%;
+}
+
+.padding-kiri-5persen{
+	padding-left:5%;
+}
+
+.padding-kiri-6persen{
+	padding-left:6%;
+}
+
+.padding-kiri-7persen{
+	padding-left:7%;
+}
+
+.padding-kiri-8persen{
+	padding-left:8%;
+}
+
+.padding-kiri-9persen{
+	padding-left:9%;
+}
+
+.padding-kiri-10persen{
+	padding-left:10%;
+}
+
+.padding-kiri-11persen{
+	padding-left:11%;
+}
+
+.padding-kiri-12persen{
+	padding-left:12%;
+}
+
+.padding-kiri-13persen{
+	padding-left:13%;
+}
+
+.padding-kiri-14persen{
+	padding-left:14%;
+}
+
+.padding-kiri-15persen{
+	padding-left:15%;
+}
+
+.padding-kiri-16persen{
+	padding-left:16%;
+}
+
+.padding-kiri-17persen{
+	padding-left:17%;
+}
+
+.padding-kiri-18persen{
+	padding-left:18%;
+}
+
+.padding-kiri-19persen{
+	padding-left:19%;
+}
+
+.padding-kiri-20persen{
+	padding-left:20%;
+}
+
+.padding-kiri-21persen{
+	padding-left:21%;
+}
+
+.padding-kiri-22persen{
+	padding-left:22%;
+}
+
+.padding-kiri-23persen{
+	padding-left:23%;
+}
+
+.padding-kiri-24persen{
+	padding-left:24%;
+}
+
+.padding-kiri-25persen{
+	padding-left:25%;
+}
+
+.padding-kiri-26persen{
+	padding-left:26%;
+}
+
+.padding-kiri-27persen{
+	padding-left:27%;
+}
+
+.padding-kiri-28persen{
+	padding-left:28%;
+}
+
+.padding-kiri-29persen{
+	padding-left:29%;
+}
+
+.padding-kiri-30persen{
+	padding-left:30%;
+}
+
+.padding-kiri-31persen{
+	padding-left:31%;
+}
+
+.padding-kiri-32persen{
+	padding-left:32%;
+}
+
+.padding-kiri-33persen{
+	padding-left:33%;
+}
+
+.padding-kiri-34persen{
+	padding-left:34%;
+}
+
+.padding-kiri-35ersen{
+	padding-left:35%;
+}
+
+.padding-kiri-36persen{
+	padding-left:36%;
+}
+
+.padding-kiri-37persen{
+	padding-left:37%;
+}
+
+.padding-kiri-38persen{
+	padding-left:38%;
+}
+
+.padding-kiri-39persen{
+	padding-left:39%;
+}
+
+.padding-kiri-40persen{
+	padding-left:40%;
+}
+
+.padding-kiri-41persen{
+	padding-left:41%;
+}
+
+.padding-kiri-42persen{
+	padding-left:42%;
+}
+
+.padding-kiri-43persen{
+	padding-left:43%;
+}
+
+.padding-kiri-44persen{
+	padding-left:44%;
+}
+
+.padding-kiri-44persen{
+	padding-left:44%;
+}
+
+.padding-kiri-45persen{
+	padding-left:45%;
+}
+
+.padding-kiri-46persen{
+	padding-left:46%;
+}
+
+.padding-kiri-47persen{
+	padding-left:47%;
+}
+
+.padding-kiri-48persen{
+	padding-left:48%;
+}
+
+.padding-kiri-49persen{
+	padding-left:49%;
+}
+
+.padding-kiri-50persen{
+	padding-left:50%;
+}
+
+.padding-kiri-51persen{
+	padding-left:51%;
+}
+
+.padding-kiri-51persen{
+	padding-left:51%;
+}
+
+.padding-kiri-52persen{
+	padding-left:52%;
+}
+
+.padding-kiri-53persen{
+	padding-left:53%;
+}
+
+.padding-kiri-54persen{
+	padding-left:54%;
+}
+
+.padding-kiri-55persen{
+	padding-left:55%;
+}
+
+.padding-kiri-56persen{
+	padding-left:56%;
+}
+
+.padding-kiri-57persen{
+	padding-left:57%;
+}
+
+.padding-kiri-58persen{
+	padding-left:58%;
+}
+
+.padding-kiri-59persen{
+	padding-left:59%;
+}
+
+.padding-kiri-60persen{
+	padding-left:60%;
+}
+
+.padding-kiri-61persen{
+	padding-left:61%;
+}
+
+.padding-kiri-62persen{
+	padding-left:62%;
+}
+
+.padding-kiri-63persen{
+	padding-left:63%;
+}
+
+.padding-kiri-64persen{
+	padding-left:64%;
+}
+
+.padding-kiri-65persen{
+	padding-left:65%;
+}
+
+.padding-kiri-66persen{
+	padding-left:66%;
+}
+
+.padding-kiri-67persen{
+	padding-left:67%;
+}
+
+.padding-kiri-68persen{
+	padding-left:68%;
+}
+
+.padding-kiri-69persen{
+	padding-left:69%;
+}
+
+.padding-kiri-70persen{
+	padding-left:70%;
+}
+
+.padding-kiri-71persen{
+	padding-left:71%;
+}
+
+.padding-kiri-72persen{
+	padding-left:72%;
+}
+
+.padding-kiri-73persen{
+	padding-left:73%;
+}
+
+.padding-kiri-74persen{
+	padding-left:74%;
+}
+
+.padding-kiri-75persen{
+	padding-left:75%;
+}
+
+.padding-kiri-76persen{
+	padding-left:76%;
+}
+
+.padding-kiri-77persen{
+	padding-left:77%;
+}
+
+.padding-kiri-78persen{
+	padding-left:78%;
+}
+
+.padding-kiri-79persen{
+	padding-left:79%;
+}
+
+.padding-kiri-80persen{
+	padding-left:80%;
+}
+
+.padding-kiri-81persen{
+	padding-left:81%;
+}
+
+.padding-kiri-82persen{
+	padding-left:82%;
+}
+
+.padding-kiri-83persen{
+	padding-left:83%;
+}
+
+.padding-kiri-84persen{
+	padding-left:84%;
+}
+
+.padding-kiri-85persen{
+	padding-left:85%;
+}
+
+.padding-kiri-86persen{
+	padding-left:86%;
+}
+
+.padding-kiri-87persen{
+	padding-left:87%;
+}
+
+.padding-kiri-88persen{
+	padding-left:88%;
+}
+
+.padding-kiri-89persen{
+	padding-left:89%;
+}
+
+.padding-kiri-90persen{
+	padding-left:90%;
+}
+
+.padding-kiri-91persen{
+	padding-left:91%;
+}
+
+.padding-kiri-92persen{
+	padding-left:92%;
+}
+
+.padding-kiri-93persen{
+	padding-left:93%;
+}
+
+.padding-kiri-94persen{
+	padding-left:94%;
+}
+
+.padding-kiri-95persen{
+	padding-left:95%;
+}
+
+.padding-kiri-96persen{
+	padding-bottom:96%;
+}
+
+.padding-kiri-97persen{
+	padding-left:97%;
+}
+
+.padding-kiri-98persen{
+	padding-left:98%;
+}
+
+.padding-kiri-99persen{
+	padding-left:99%;
+}
+
+.padding-kiri-100persen{
+	padding-left:100%;
+}
+
+<!--- -- GARIS ATAS --- -->
+
+.garis-atas-1putih{
+	border-top:1px solid #FFFFFF;
+}
+
+.garis-atas-2putih{
+	border-top:2px solid #FFFFFF;
+}
+
+.garis-atas-1abu{
+	border-top:1px solid #CCCCCC;
+}
+
+.garis-atas-2abu{
+	border-top:2px solid #CCCCCC;
+}
+
+.garis-atas-1hitam{
+	border-top:1px solid #000000;
+}
+
+.garis-atas-2hitam{
+	border-top:2px solid #000000;
+}
+
+/*- -- GARIS KANAN --- */
+
+.border1{
+	border:1px solid #FFF;
+}
+
+.border2{
+	border:2px solid #FFF;
+}
+
+.border3{
+	border:3px solid #000;
+}
+
+.border4{
+	border:1px solid #CCC;
+}
+
+.garis-kanan-1putih{
+	border-right:1px solid #FFFFFF;
+}
+
+.garis-kanan-2putih{
+	border-right:2px solid #FFFFFF;
+}
+
+.garis-kanan-1abu{
+	border-right:1px solid #CCCCCC;
+}
+
+.garis-kanan-2abu{
+	border-right:2px solid #CCCCCC;
+}
+
+.garis-kanan-1hitam{
+	border-right:1px solid #000000;
+}
+
+.garis-kanan-2hitam{
+	border-right:2px solid #000000;
+}
+
+<!--- -- GARIS BAWAH --- -->
+
+.garis-bawah-1putih{
+	border-bottom:1px solid #FFFFFF;
+}
+
+.garis-bawah-2putih{
+	border-bottom:2px solid #FFFFFF;
+}
+
+.garis-bawah-1abu{
+	border-bottom:1px solid #CCCCCC;
+}
+
+.garis-bawah-2abu{
+	border-bottom:2px solid #CCCCCC;
+}
+
+.garis-bawah-1hitam{
+	border-bottom:1px solid #000000;
+}
+
+.garis-bawah-2hitam{
+	border-bottom:2px solid #000000;
+}
+
+<!--- -- GARIS KIRI --- -->
+
+.garis-kiri-1putih{
+	border-left:1px solid #FFFFFF;
+}
+
+.garis-kiri-2putih{
+	border-left:2px solid #FFFFFF;
+}
+
+.garis-kiri-1abu{
+	border-left:1px solid #CCCCCC;
+}
+
+.garis-kiri-2abu{
+	border-left:2px solid #CCCCCC;
+}
+
+.garis-kiri-1hitam{
+	border-left:1px solid #000000;
+}
+
+.garis-kiri-2hitam{
+	border-left:2px solid #000000;
+}
+
+
+.garis-bayang-abu2{
+	box-shadow:0px 1px 3px #aaa;	
+}
+
+
+/*----Reset----*/
+
+a{
+	text-decoration:none;
+	color:#000;
+}
+
+.sembunyi-layar{
+	overflow:hidden;	
+}
+
+/*----Rounded----*/
+
+.rounded-atas-kanan-1{
+	border-top-right-radius:5px;
+}
+
+.rounded-atas-kiri-1{
+	border-top-left-radius:5px;
+}
+
+.rounded-bawah-kanan-1{
+	border-bottom-right-radius:5px;
+}
+
+.rounded-bawah-kiri-1{
+	border-bottom-left-radius:5px;
+}
+
+.rounded-atas-kanan-10{
+	border-top-right-radius:20px;
+}
+
+.rounded-atas-kiri-10{
+	border-top-left-radius:20px;
+}
+
+.rounded-bawah-kanan-10{
+	border-bottom-right-radius:20px;
+}
+
+.rounded-bawah-kiri-10{
+	border-bottom-left-radius:20px;
+}
+
+.rounded{
+	border-radius:10px;
+}
+
+.rounded2{
+	border-radius:5px;
+}
+
+/* HOVER */
+
+.hoverkotak:hover{
+	background-color:#999;
+	color:#FFF;
+}
+
+.hover-tulisan-putih:hover{
+	color:#FFF;
+}
+
+.hover-tulisan-biru:hover{
+	color:#009ad7;
+}
+
+
+.badge1{
+	padding:2px;
+	margin-top:1px;
+	border-radius:10px;	
+}
